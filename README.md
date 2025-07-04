@@ -50,6 +50,8 @@ It also saves a graph: `accuracy_vs_k.png`
 
 ```bash
 pip install scikit-learn matplotlib
-### 2.Run
-python Knn_iris.py
+
+## 2.Run
+'''bash
+ python Knn_iris.py
 
